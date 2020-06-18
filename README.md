@@ -34,7 +34,7 @@
 
 ## F
 + **Fractional Strided Convolution**
-    - Transposed Convolution = Fractional Strided Convolution ≠ deconvolution [[src: ArXiv]](https://arxiv.org/abs/1603.07285)
+    - Transposed Convolution = Fractional Strided Convolution ≠ deconvolution [[src: ArXiv]](https://arxiv.org/abs/1603.07285) [[src: Implementing the Generator of DCGAN on FPGA]](https://www.theseus.fi/handle/10024/147406)
     - The number of *stride* in Convolution is equal to *half* of the *stride* in Transposed Convolution, 
     [[src: ArXiv]](https://arxiv.org/abs/1603.07285)
   
