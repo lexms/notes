@@ -8,6 +8,9 @@
 + [M](#m), [N](#n), [O](#o), [P](#p), [Q](#q), [R](#r),
 + [S](#s), [T](#t), [U](#u), [V](#v), [W](#w), [X](#x), [Y](#y), [Z](#z)
 
+## Disclaimer
++ This is a note on how I interpret every tutorials, articles, and books that I read.
++ There could be an information distortion, so I would be very grateful if you could tell me or let me know via [twitter](https://twitter.com/lexms_) or [linkedin](https://www.linkedin.com/in/lexms/)
 
 ## A
 
