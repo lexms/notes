@@ -33,6 +33,10 @@
 [🔙 Back](#navigation)
 
 ## F
++ **Fractional Strided Convolution**
+    - Transposed Convolution = Fractional Strided Convolution ≠ deconvolution [[src: ArXiv]](https://arxiv.org/abs/1603.07285)
+    - The number of *stride* in Convolution is equal to *half* of the *stride* in Transposed Convolution, 
+    [[src: ArXiv]](https://arxiv.org/abs/1603.07285)
   
 [🔙 Back](#navigation)
 
@@ -83,7 +87,7 @@
 
 ## R
 + **Preview .md files in vscode**
-    - Press Ctrl+Shift+V, [src](https://code.visualstudio.com/docs/languages/markdown#:~:text=Markdown%20preview&text=To%20switch%20between%20views%2C%20press,with%20a%20very%20simple%20file.)
+    - Press Ctrl+Shift+V, [src: Visual Studio](https://code.visualstudio.com/docs/languages/markdown#:~:text=Markdown%20preview&text=To%20switch%20between%20views%2C%20press,with%20a%20very%20simple%20file.)
 
 
 [🔙 Back](#navigation)
