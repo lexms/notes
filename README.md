@@ -10,6 +10,7 @@
 
 ## Disclaimer
 + This is a note on how I interpret every tutorials, articles, and books that I read.
++ All sources will be cited, if not cited means it's based on personal experience 
 + There could be an information distortion, so I would be very grateful if you could tell me or let me know via [twitter](https://twitter.com/lexms_) or [linkedin](https://www.linkedin.com/in/lexms/)
 
 ## A
@@ -41,6 +42,8 @@
 [🔙 Back](#navigation)
 
 ## G
++ **Training on GPU**
+    - I found Tensorflow can harness more GPU power then PyTorch while training DCGAN using their tutorial's code
 
 [🔙 Back](#navigation)
 
@@ -87,7 +90,7 @@
 
 ## R
 + **Preview .md files in vscode**
-    - Press Ctrl+Shift+V, [src: Visual Studio](https://code.visualstudio.com/docs/languages/markdown#:~:text=Markdown%20preview&text=To%20switch%20between%20views%2C%20press,with%20a%20very%20simple%20file.)
+    - Press Ctrl+Shift+V, [[src: Visual Studio]](https://code.visualstudio.com/docs/languages/markdown#:~:text=Markdown%20preview&text=To%20switch%20between%20views%2C%20press,with%20a%20very%20simple%20file.)
 
 
 [🔙 Back](#navigation)
