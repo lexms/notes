@@ -18,6 +18,7 @@
 [🔙 Back](#navigation)
 
 ## B
++ **Boltzmann Machine**
 
 [🔙 Back](#navigation)
 
@@ -48,6 +49,8 @@
 [🔙 Back](#navigation)
 
 ## H
++ **Hook PyTorch**
+    - First create function for hook, then create model, then register hook
 
 [🔙 Back](#navigation)
 
@@ -74,6 +77,11 @@
 
 ## N
 
++ **Neuroscience**
+    - If your cells can turn into eyeballs or teeth, probably your cells can do backpropagation or something similar like backpropagation
+    [[YouTube:
+Preserve Knowledge]](https://www.youtube.com/watch?v=-eyhCTvrEtE)
+
 [🔙 Back](#navigation)
 
 ## O
@@ -96,6 +104,10 @@
 [🔙 Back](#navigation)
 
 ## S
++ **Sparse coding**
+    - nan
++ **Skripsi**
+    - print(netD.main[5].weight.size()) | torch.Size([256, 128, 4, 4]) artinya 256 feature maps out, 128 feature maps in, kernel 4x4
 
 [🔙 Back](#navigation)
 
