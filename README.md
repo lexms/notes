@@ -23,6 +23,8 @@
 [🔙 Back](#navigation)
 
 ## C
++ **Covariate  Shift**
+    - Covariate shift is the change in distribution between training dataset and test dataset 
 
 [🔙 Back](#navigation)
 
@@ -108,6 +110,7 @@ Preserve Knowledge]](https://www.youtube.com/watch?v=-eyhCTvrEtE)
     - nan
 + **Skripsi**
     - print(netD.main[5].weight.size()) | torch.Size([256, 128, 4, 4]) artinya 256 feature maps out, 128 feature maps in, kernel 4x4
+    - Every iteration convolution put different result for every feature maps
 
 [🔙 Back](#navigation)
 
