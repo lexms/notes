@@ -19,6 +19,8 @@
 
 ## B
 + **Boltzmann Machine**
++ **Backward Pass**
+    - Call optimizer.zerograd() after each .step() prevent accumulating the gradient in .backward().
 
 [🔙 Back](#navigation)
 
@@ -115,6 +117,8 @@ Preserve Knowledge]](https://www.youtube.com/watch?v=-eyhCTvrEtE)
 [🔙 Back](#navigation)
 
 ## T
++ **torch.grad**
+    - torch.no_grad() to prevent memory overload [[src: PyTorch]](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html)
 
 [🔙 Back](#navigation)
 
