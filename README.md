@@ -117,7 +117,10 @@ Preserve Knowledge]](https://www.youtube.com/watch?v=-eyhCTvrEtE)
 [🔙 Back](#navigation)
 
 ## T
++ **torch.detach**
+    - detach(): remove a tensor from computation graph (excluded from further tracking of operations) [[src: B. Nikolic Software and Computing Blog]](http://www.bnikolic.co.uk/blog/pytorch-detach.html#:~:text=The%20detach()%20method%20constructs,visualised%20using%20the%20torchviz%20package.)
 + **torch.grad**
+    - grad is a variable
     - torch.no_grad() to prevent memory overload [[src: PyTorch]](https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html)
 
 [🔙 Back](#navigation)
