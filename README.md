@@ -108,6 +108,8 @@ Preserve Knowledge]](https://www.youtube.com/watch?v=-eyhCTvrEtE)
 [🔙 Back](#navigation)
 
 ## S
++ **Data Security in ML**
+    - Even with decentralized deep learning, GAN can generate protypical samples of targeted data.
 + **Sparse coding**
     - nan
 + **Skripsi**
