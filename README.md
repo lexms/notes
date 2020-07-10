@@ -27,10 +27,10 @@
 ## C
 + **CNN: better understanding of cnn by visualize it**
     - 2D Visualize CNN [[src:ryerson.ca]](https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html)
-    - Visualizing convolutional features using PyTorch [[github:fg91]](https://github.com/fg91/visualizing-cnn-feature-maps)
+    - Visualizing convolutional features using PyTorch [[github: fg91]](https://github.com/fg91/visualizing-cnn-feature-maps)
     - pytorch_visualization [[github: pedrodiamel]](https://github.com/pedrodiamel/nettutorial/blob/master/pytorch/pytorch_visualization.ipynb)
     - pytorch-cnn-visualizations [[github: utkuozbulak]](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
-    - CNN Explainer [[github:poloclub]](https://github.com/poloclub/cnn-explainer)
+    - CNN Explainer [[github: poloclub]](https://github.com/poloclub/cnn-explainer)
 + **Covariate  Shift**
     - Covariate shift is the change in distribution between training dataset and test dataset 
 
