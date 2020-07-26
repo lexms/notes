@@ -9,8 +9,8 @@
 + [S](#s), [T](#t), [U](#u), [V](#v), [W](#w), [X](#x), [Y](#y), [Z](#z)
 
 ## Disclaimer
-+ This is a note on how I interpret every tutorials, articles, and books that I read.
-+ All sources will be cited, if not cited means it's based on personal experience 
++ This is a note on how I interpret every tutorials, articles, and books that I've read.
++ All sources will be cited, if not cited means it's based on my personal experience 
 + There could be an information distortion, so I would be very grateful if you could tell me or let me know via [twitter](https://twitter.com/lexms_) or [linkedin](https://www.linkedin.com/in/lexms/)
 
 ## A
