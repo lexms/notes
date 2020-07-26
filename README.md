@@ -37,7 +37,8 @@
 [🔙 Back](#navigation)
 
 ## D
-
+**Unbalanced Data**
+    - Oversampling or Undersamplng
 [🔙 Back](#navigation)
 
 ## E
@@ -78,6 +79,8 @@
 [🔙 Back](#navigation)
 
 ## L
++ **Latent Space**
+    - Latent Space is a compressed representation from certain dataset.
 
 [🔙 Back](#navigation)
 
@@ -89,8 +92,7 @@
 
 + **Neuroscience**
     - If your cells can turn into eyeballs or teeth, probably your cells can do backpropagation or something similar like backpropagation
-    [[YouTube:
-Preserve Knowledge]](https://www.youtube.com/watch?v=-eyhCTvrEtE)
+    [[YouTube:Preserve Knowledge]](https://www.youtube.com/watch?v=-eyhCTvrEtE)
 
 [🔙 Back](#navigation)
 
@@ -100,6 +102,14 @@ Preserve Knowledge]](https://www.youtube.com/watch?v=-eyhCTvrEtE)
 
 ## P
 
++ **P Value**
+    - p-value, the probability getting the current/original idea is TRUE or correct
+    - The lower the P-value is the more significant your independent variable is going to be, the more impact on the dependent variable. <5% highly significant, >5% less significant
+    
++ **Polynomial Linear Regression**
+    - Rven though the relation between x and y is non linear you can use Polynomial Linear Regression
+
+
 [🔙 Back](#navigation)
 
 ## Q
@@ -107,6 +117,10 @@ Preserve Knowledge]](https://www.youtube.com/watch?v=-eyhCTvrEtE)
 [🔙 Back](#navigation)
 
 ## R
+
++ **R**
+    - name space seperated using dot
+
 + **Preview .md files in vscode**
     - Press Ctrl+Shift+V, [[src: Visual Studio]](https://code.visualstudio.com/docs/languages/markdown#:~:text=Markdown%20preview&text=To%20switch%20between%20views%2C%20press,with%20a%20very%20simple%20file.)
 
@@ -121,6 +135,12 @@ Preserve Knowledge]](https://www.youtube.com/watch?v=-eyhCTvrEtE)
 + **Skripsi**
     - print(netD.main[5].weight.size()) | torch.Size([256, 128, 4, 4]) artinya 256 feature maps out, 128 feature maps in, kernel 4x4
     - Every iteration convolution put different result for every feature maps
+    - if Loss D near zero and Loss G still high means the generator generate garbage
+    - Loss G 🔺 = fooling D with garbage, Loss D 🔻 = doesn't learn anything
+    - Loss G 🔻 = generate good image, Loss D 🔻 = can distinguish fake n real
+
++ **Spyder**
+    - Anobject cannot be viewed in spyder
 
 [🔙 Back](#navigation)
 
