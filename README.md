@@ -31,7 +31,7 @@
     - pytorch_visualization [[github: pedrodiamel]](https://github.com/pedrodiamel/nettutorial/blob/master/pytorch/pytorch_visualization.ipynb)
     - pytorch-cnn-visualizations [[github: utkuozbulak]](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
     - CNN Explainer [[github: poloclub]](https://github.com/poloclub/cnn-explainer)
-    
+
 + **Covariate  Shift**
     - Covariate shift is the change in distribution between training dataset and test dataset 
 
@@ -157,7 +157,7 @@
 [🔙 Back](#navigation)
 
 ## U
-**Unbalanced Data**
++ **Unbalanced Data**
     - Do oversampling or Undersamplng
 [🔙 Back](#navigation)
 
