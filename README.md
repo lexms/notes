@@ -31,14 +31,22 @@
     - pytorch_visualization [[github: pedrodiamel]](https://github.com/pedrodiamel/nettutorial/blob/master/pytorch/pytorch_visualization.ipynb)
     - pytorch-cnn-visualizations [[github: utkuozbulak]](https://github.com/utkuozbulak/pytorch-cnn-visualizations)
     - CNN Explainer [[github: poloclub]](https://github.com/poloclub/cnn-explainer)
+    
 + **Covariate  Shift**
     - Covariate shift is the change in distribution between training dataset and test dataset 
 
 [🔙 Back](#navigation)
 
 ## D
-**Unbalanced Data**
-    - Oversampling or Undersamplng
++ **DCGAN**
+    - print(netD.main[5].weight.size()) | torch.Size([256, 128, 4, 4]) artinya 256 feature maps out, 128 feature maps in, kernel 4x4
+    - Every iteration convolution put different result for every feature maps
+    - if Loss D is near zero and Loss G still high means the generator generate garbage
+    - Loss G 🔺 = fooling D with garbage, Loss D 🔻 = doesn't learn anything
+    - Loss G 🔻 = generate good image, Loss D 🔻 = can distinguish fake n real
+
+
+
 [🔙 Back](#navigation)
 
 ## E
@@ -105,7 +113,7 @@
 + **P Value**
     - p-value, the probability getting the current/original idea is TRUE or correct
     - The lower the P-value is the more significant your independent variable is going to be, the more impact on the dependent variable. <5% highly significant, >5% less significant
-    
+
 + **Polynomial Linear Regression**
     - Rven though the relation between x and y is non linear you can use Polynomial Linear Regression
 
@@ -132,15 +140,10 @@
     - Even with decentralized deep learning, GAN can generate protypical samples of targeted data. [[src: Arxiv]](https://arxiv.org/abs/1702.07464)
 + **Sparse coding**
     - nan
-+ **Skripsi**
-    - print(netD.main[5].weight.size()) | torch.Size([256, 128, 4, 4]) artinya 256 feature maps out, 128 feature maps in, kernel 4x4
-    - Every iteration convolution put different result for every feature maps
-    - if Loss D near zero and Loss G still high means the generator generate garbage
-    - Loss G 🔺 = fooling D with garbage, Loss D 🔻 = doesn't learn anything
-    - Loss G 🔻 = generate good image, Loss D 🔻 = can distinguish fake n real
+
 
 + **Spyder**
-    - Anobject cannot be viewed in spyder
+    - An object cannot be viewed in spyder
 
 [🔙 Back](#navigation)
 
@@ -154,7 +157,8 @@
 [🔙 Back](#navigation)
 
 ## U
-
+**Unbalanced Data**
+    - Do oversampling or Undersamplng
 [🔙 Back](#navigation)
 
 ## V
