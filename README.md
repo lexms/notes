@@ -44,6 +44,9 @@
     - if Loss D is near zero and Loss G still high means the generator generate garbage
     - Loss G 🔺 = fooling D with garbage, Loss D 🔻 = doesn't learn anything
     - Loss G 🔻 = generate good image, Loss D 🔻 = can distinguish fake n real
+    - D(x) - the average output (across the batch) of the discriminator for the all real batch. This should start close to 1 then theoretically converge to 0.5 when G gets better. Why? It's because initially the discriminator know how to predict the real one (output's mean = 1) and then start to confused by the weight produced by the discriminator while training on the fake batch.
+    - D(G(z)) - average discriminator outputs for the all fake batch. The first number is before D is updated and the second number is after D is updated. These numbers should start near 0 and converge to 0.5 as G gets better. Why? It's because initially the discriminator know how to predict the fake one (output's mean = 0) and then start to confused, cause the generator can produce almost as good as the real one.
+
 
 
 
