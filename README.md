@@ -135,6 +135,9 @@
 + **Preview .md files in vscode**
     - Press Ctrl+Shift+V, [[src: Visual Studio]](https://code.visualstudio.com/docs/languages/markdown#:~:text=Markdown%20preview&text=To%20switch%20between%20views%2C%20press,with%20a%20very%20simple%20file.)
 
++ **Reactjs Concepts**
+    - Split component as needed, and naming props from the component’s own point of view rather than the context in which it is being used. [React Doc](https://reactjs.org/docs/components-and-props.html) 
+
 
 [🔙 Back](#navigation)
 
